@@ -1,0 +1,12 @@
+{
+    "en-US": [
+        {
+            "key": "greet",
+            "value": "Hello there!"
+        },
+        {
+            "key": "farewell",
+            "value": "Goodbye!"
+        }
+    ]
+}

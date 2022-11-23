@@ -1,0 +1,12 @@
+{
+    "fil": [
+        {
+            "key": "greet",
+            "value": "Kumusta dyan!"
+        },
+        {
+            "key": "farewell",
+            "value": "Paalam!"
+        }
+    ]
+}
